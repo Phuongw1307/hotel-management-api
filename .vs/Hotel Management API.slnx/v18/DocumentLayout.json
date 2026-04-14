@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260413092331_AddAdminAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management API\\Migrations\\20260413092331_AddAdminAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260413092142_AddAdminAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management API\\Migrations\\20260413092142_AddAdminAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\middlewares\\tokenversionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\middlewares\\tokenversionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\hotel management api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\hotel management api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\controllers\\roomtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\controllers\\roomtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\implementations\\tokenversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\implementations\\tokenversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\interfaces\\itokenversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\interfaces\\itokenversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\migrations\\20260411030757_addappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\migrations\\20260411030757_addappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\repositories\\implementations\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\repositories\\implementations\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\validators\\hotelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\validators\\hotelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\implementations\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\implementations\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\implementations\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\implementations\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\implementations\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\implementations\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\interfaces\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\interfaces\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\repositories\\implementations\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\repositories\\implementations\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\repositories\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\repositories\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\repositories\\implementations\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\repositories\\implementations\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\repositories\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\repositories\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\repositories\\interfaces\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\repositories\\interfaces\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\validators\\roomtypevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\validators\\roomtypevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\validators\\roomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\validators\\roomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\migrations\\20260409104549_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\migrations\\20260409104549_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|c:\\users\\phuon\\source\\repos\\hotel management api\\hotel management api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75367432-7853-9B6B-5370-CF0D0D06111F}|Hotel Management API\\Hotel Management API.csproj|solutionrelative:hotel management api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Hotel Management API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:05:07.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Program.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Program.cs",
+              "RelativeToolTip": "Hotel Management API\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:09:39.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:13:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Hotel Management API\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:00:26.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenVersionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Middlewares\\TokenVersionMiddleware.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Middlewares\\TokenVersionMiddleware.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Middlewares\\TokenVersionMiddleware.cs",
+              "RelativeToolTip": "Hotel Management API\\Middlewares\\TokenVersionMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:28:46.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\AppUser.cs",
+              "RelativeToolTip": "Hotel Management API\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T03:01:53.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\appsettings.json",
+              "RelativeDocumentMoniker": "Hotel Management API\\appsettings.json",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\appsettings.json",
+              "RelativeToolTip": "Hotel Management API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T10:06:38.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Hotel Management API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:46:41.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hotel Management API.http",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Hotel Management API.http",
+              "RelativeDocumentMoniker": "Hotel Management API\\Hotel Management API.http",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Hotel Management API.http",
+              "RelativeToolTip": "Hotel Management API\\Hotel Management API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-12T15:56:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\RoomTypesController.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Controllers\\RoomTypesController.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\RoomTypesController.cs",
+              "RelativeToolTip": "Hotel Management API\\Controllers\\RoomTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:02:35.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Hotel Management API\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:03:09.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Hotel Management API\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:12:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T03:16:59.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IHotelService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Interfaces\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IHotelService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Interfaces\\IHotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:37:12.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:12:47.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenVersionService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\TokenVersionService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Implementations\\TokenVersionService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\TokenVersionService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Implementations\\TokenVersionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:27:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\JwtService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Implementations\\JwtService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\JwtService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Implementations\\JwtService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T03:17:24.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITokenVersionService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\ITokenVersionService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Interfaces\\ITokenVersionService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\ITokenVersionService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Interfaces\\ITokenVersionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:26:26.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\AuthDTO.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\AuthDTO.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\AuthDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T03:15:37.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Hotel Management API\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:29:09.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260411030757_AddAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260411030757_AddAppUser.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Migrations\\20260411030757_AddAppUser.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260411030757_AddAppUser.cs",
+              "RelativeToolTip": "Hotel Management API\\Migrations\\20260411030757_AddAppUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T03:13:26.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\HotelDTO.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\HotelDTO.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\HotelDTO.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\HotelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:33:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HotelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\Validators\\HotelValidator.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\Validators\\HotelValidator.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\Validators\\HotelValidator.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\Validators\\HotelValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:40:19.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Implementations\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Repositories\\Implementations\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Implementations\\HotelRepository.cs",
+              "RelativeToolTip": "Hotel Management API\\Repositories\\Implementations\\HotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:25:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\ServiceResult.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\ServiceResult.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:46:51.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\HotelService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Implementations\\HotelService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\HotelService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Implementations\\HotelService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:38:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\RoomService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Implementations\\RoomService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\RoomService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Implementations\\RoomService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:37:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Implementations\\RoomTypeService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Implementations\\RoomTypeService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Implementations\\RoomTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:37:36.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRoomTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IRoomTypeService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Interfaces\\IRoomTypeService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IRoomTypeService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Interfaces\\IRoomTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:37:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Services\\Interfaces\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Services\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "Hotel Management API\\Services\\Interfaces\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:36:51.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Implementations\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Repositories\\Implementations\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Implementations\\RoomRepository.cs",
+              "RelativeToolTip": "Hotel Management API\\Repositories\\Implementations\\RoomRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:31:59.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Repositories\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "Hotel Management API\\Repositories\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:31:11.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Interfaces\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Repositories\\Interfaces\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Interfaces\\IHotelRepository.cs",
+              "RelativeToolTip": "Hotel Management API\\Repositories\\Interfaces\\IHotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:24:42.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Implementations\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Repositories\\Implementations\\RoomTypeRepository.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Implementations\\RoomTypeRepository.cs",
+              "RelativeToolTip": "Hotel Management API\\Repositories\\Implementations\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:27:16.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Interfaces\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Repositories\\Interfaces\\IRoomTypeRepository.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Repositories\\Interfaces\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "Hotel Management API\\Repositories\\Interfaces\\IRoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:26:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoomTypeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\Validators\\RoomTypeValidator.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\Validators\\RoomTypeValidator.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\Validators\\RoomTypeValidator.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\Validators\\RoomTypeValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:48:56.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\RoomDTO.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\RoomDTO.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\RoomDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:36:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoomValidator.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\Validators\\RoomValidator.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\Validators\\RoomValidator.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\Validators\\RoomValidator.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\Validators\\RoomValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:44:54.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoomTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\RoomTypeDTO.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\DTOs\\RoomTypeDTO.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\DTOs\\RoomTypeDTO.cs",
+              "RelativeToolTip": "Hotel Management API\\DTOs\\RoomTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:35:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\Hotel.cs",
+              "RelativeToolTip": "Hotel Management API\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:28:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260409104549_Init.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260409104549_Init.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Migrations\\20260409104549_Init.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260409104549_Init.cs",
+              "RelativeToolTip": "Hotel Management API\\Migrations\\20260409104549_Init.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:45:50.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\Room.cs",
+              "RelativeToolTip": "Hotel Management API\\Models\\Room.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:12:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Models\\RoomType.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Models\\RoomType.cs",
+              "RelativeToolTip": "Hotel Management API\\Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:30:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Hotel Management API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwIYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:18:52.399Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260413092331_AddAdminAccount.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260413092331_AddAdminAccount.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Migrations\\20260413092331_AddAdminAccount.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260413092331_AddAdminAccount.cs",
+              "RelativeToolTip": "Hotel Management API\\Migrations\\20260413092331_AddAdminAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:23:31.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260413092142_AddAdminAccount.cs",
+              "DocumentMoniker": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260413092142_AddAdminAccount.cs",
+              "RelativeDocumentMoniker": "Hotel Management API\\Migrations\\20260413092142_AddAdminAccount.cs",
+              "ToolTip": "C:\\Users\\phuon\\source\\repos\\Hotel Management API\\Hotel Management API\\Migrations\\20260413092142_AddAdminAccount.cs",
+              "RelativeToolTip": "Hotel Management API\\Migrations\\20260413092142_AddAdminAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:21:43.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
