@@ -12,4 +12,11 @@
         public int TokenVersion { get; set; } = 0;
         public ICollection<RefreshToken> RefreshTokens { get; set; } = new List<RefreshToken>();
     }
+
+    public static class Roles
+    {
+        public const string Admin = "Admin";
+        public const string Staff = "Staff";
+        public const string User = "User";
+    }
 }

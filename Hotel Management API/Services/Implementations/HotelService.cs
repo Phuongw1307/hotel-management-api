@@ -105,3 +105,4 @@ namespace Hotel_Management_API.Services.Implementations
             return ServiceResult.Ok("Hotel deleted successfully.");
         }
     }
+}

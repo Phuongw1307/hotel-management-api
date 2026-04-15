@@ -38,7 +38,7 @@ namespace Hotel_Management_API.Services.Implementations
                 Username = normalizedUsername,
                 FullName = request.FullName.Trim(),
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.Password), // Không lưu password thô
-                Role = "User",
+                Role = Roles.User,
                 IsActive = true,
                 TokenVersion = 0
             };
@@ -46,7 +46,6 @@ namespace Hotel_Management_API.Services.Implementations
             _context.AppUsers.Add(user);
             await _context.SaveChangesAsync();
 
-            // Register xong thì cấp token luôn cho tiện
             return await CreateAuthResponseAsync(user);
         }
 
@@ -84,7 +83,6 @@ namespace Hotel_Management_API.Services.Implementations
             if (!tokenInDb.User.IsActive)
                 return null;
 
-            // Rotate refresh token: token cũ bị vô hiệu, token mới được cấp
             tokenInDb.IsRevoked = true;
 
             var user = tokenInDb.User;
@@ -111,7 +109,6 @@ namespace Hotel_Management_API.Services.Implementations
             if (tokenInDb == null)
                 return false;
 
-            // Logout 1 thiết bị: revoke refresh token hiện tại
             if (!tokenInDb.IsRevoked)
             {
                 tokenInDb.IsRevoked = true;
@@ -129,7 +126,6 @@ namespace Hotel_Management_API.Services.Implementations
             if (user == null)
                 return false;
 
-            // Tăng version để toàn bộ access token cũ bị vô hiệu
             user.TokenVersion++;
 
             var activeRefreshTokens = await _context.RefreshTokens
