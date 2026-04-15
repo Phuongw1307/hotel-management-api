@@ -11,7 +11,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
-using Hotel_Management_API.Services.Implementations.Hotel_Management_API.Services.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 

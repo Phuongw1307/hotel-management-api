@@ -1,4 +1,4 @@
-﻿namespace Hotel_Management_API.Dtos
+﻿namespace Hotel_Management_API.DTOs
 {
     public class CreateHotelRequest
     {

@@ -1,4 +1,4 @@
-﻿using Hotel_Management_API.Dtos;
+﻿using Hotel_Management_API.DTOs;
 using Hotel_Management_API.Models;
 using Hotel_Management_API.Repositories.Interfaces;
 using Hotel_Management_API.Services.Interfaces;
@@ -75,7 +75,7 @@ namespace Hotel_Management_API.Services.Implementations
 
         public async Task<ServiceResult> UpdateAsync(int id, UpdateHotelRequest request)
         {
-            var existing = await _hotelRepository.GetByIdAsync(id);
+            var existing = await _hotelRepository.GetByIdForUpdateAsync(id);
             if (existing == null)
                 return ServiceResult.Fail("Hotel not found.");
 
@@ -84,7 +84,6 @@ namespace Hotel_Management_API.Services.Implementations
             existing.Phone = request.Phone;
             existing.IsActive = request.IsActive;
 
-            _hotelRepository.Update(existing);
             await _hotelRepository.SaveChangesAsync();
 
             return ServiceResult.Ok("Hotel updated successfully.");
@@ -92,7 +91,7 @@ namespace Hotel_Management_API.Services.Implementations
 
         public async Task<ServiceResult> DeleteAsync(int id)
         {
-            var existing = await _hotelRepository.GetByIdAsync(id);
+            var existing = await _hotelRepository.GetByIdForUpdateAsync(id);
             if (existing == null)
                 return ServiceResult.Fail("Hotel not found.");
 
@@ -106,4 +105,3 @@ namespace Hotel_Management_API.Services.Implementations
             return ServiceResult.Ok("Hotel deleted successfully.");
         }
     }
-}

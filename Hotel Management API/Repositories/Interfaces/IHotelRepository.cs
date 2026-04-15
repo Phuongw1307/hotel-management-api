@@ -6,8 +6,8 @@ namespace Hotel_Management_API.Repositories.Interfaces
     {
         Task<List<Hotel>> GetAllAsync();
         Task<Hotel?> GetByIdAsync(int id);
+        Task<Hotel?> GetByIdForUpdateAsync(int id);
         Task AddAsync(Hotel hotel);
-        void Update(Hotel hotel);
         void Delete(Hotel hotel);
         Task<bool> ExistsAsync(int id);
         Task<bool> HasRoomsAsync(int hotelId);

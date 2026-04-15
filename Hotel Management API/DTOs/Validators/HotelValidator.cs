@@ -1,5 +1,5 @@
 ﻿using FluentValidation;
-using Hotel_Management_API.Dtos;
+using Hotel_Management_API.DTOs;
 
 namespace Hotel_Management_API.DTOs.Validators
 {

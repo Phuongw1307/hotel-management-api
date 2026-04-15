@@ -1,4 +1,4 @@
-﻿using Hotel_Management_API.Dtos;
+﻿using Hotel_Management_API.DTOs;
 using Hotel_Management_API.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -40,6 +40,10 @@ namespace Hotel_Management_API.Controllers
         public async Task<IActionResult> Create([FromBody] CreateHotelRequest request)
         {
             var result = await _hotelService.CreateAsync(request);
+
+            if (!result.Success)
+                return BadRequest(new { message = result.Message });
+
 
             return CreatedAtAction(nameof(GetById), new { id = result.Data!.Id }, result.Data);
         }

@@ -28,14 +28,15 @@ namespace Hotel_Management_API.Repositories.Implementations
                 .FirstOrDefaultAsync(h => h.Id == id);
         }
 
+        public async Task<Hotel?> GetByIdForUpdateAsync(int id)
+        {
+            return await _context.Hotels
+                .FirstOrDefaultAsync(h => h.Id == id);
+        }
+
         public async Task AddAsync(Hotel hotel)
         {
             await _context.Hotels.AddAsync(hotel);
-        }
-
-        public void Update(Hotel hotel)
-        {
-            _context.Hotels.Update(hotel);
         }
 
         public void Delete(Hotel hotel)
