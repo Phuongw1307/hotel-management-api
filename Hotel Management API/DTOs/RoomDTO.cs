@@ -39,4 +39,16 @@ namespace Hotel_Management_API.DTOs
         public decimal PricePerNight { get; set; }
         public RoomStatus Status { get; set; }
     }
+
+    public class AvailableRoomResponse
+    {
+        public int RoomId { get; set; }
+        public int RoomNumber { get; set; }
+
+        public int HotelId { get; set; }
+        public int RoomTypeId { get; set; }
+        public string RoomTypeName { get; set; } = string.Empty;
+
+        public decimal PricePerNight { get; set; }
+    }
 }

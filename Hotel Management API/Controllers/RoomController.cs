@@ -8,11 +8,11 @@ namespace Hotel_Management_API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
-    public class RoomsController : ControllerBase
+    public class RoomController : ControllerBase
     {
         private readonly IRoomService _roomService;
 
-        public RoomsController(IRoomService roomService)
+        public RoomController(IRoomService roomService)
         {
             _roomService = roomService;
         }
